@@ -20,6 +20,12 @@
 
 ---
 
+## 🔗 Portfolio Link
+
+👉 [Visit My Portfolio](https://jangyashreeportfolio.vercel.app/)
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
@@ -35,6 +41,17 @@
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   
 </p>
+
+---
+
+## 📊 GitHub Stats & Top Languages
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Jangyashree&show_icons=true&theme=tokyonight" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jangyashree&layout=compact&theme=tokyonight" alt="Top Languages" /></td>
+  </tr>
+</table>
 
 ---
 
