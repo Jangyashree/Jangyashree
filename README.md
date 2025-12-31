@@ -48,17 +48,6 @@
 
 ---
 
-## 📊 GitHub Stats & Top Languages
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Jangyashree&show_icons=true&theme=tokyonight" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jangyashree&layout=compact&theme=tokyonight" alt="Top Languages" /></td>
-  </tr>
-</table>
-
----
-
 ## 🌟 Connect with Me
 
 <p align="center">
