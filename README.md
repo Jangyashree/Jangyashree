@@ -13,19 +13,21 @@
   <img src="https://komarev.com/ghpvc/?username=Jangyashree&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
+---
+
+## 🚀 About Me  
+
+💡 Passionate **Python Full Stack Developer** focused on building scalable, user-friendly web applications.
+
+- 🐍 Strong in **Python & Django**
+- 🔗 Experienced in **Django REST Framework (REST APIs)**
+- 🎨 Frontend skills: **HTML, CSS, Bootstrap, JavaScript**
+- ⚛️ Currently exploring **React**
+- 🗄️ Database handling: **SQL, ORM Optimization**
+- 📈 Interested in clean architecture & performance optimization
 
 ---
 
-## 🚀 About Me
-<p style="font-size: 1.1rem; color:#bbbbbb;">
-  🔥 Lover of clean code and beautiful UI.<br>
-  🌐 Expert in <strong>Python</strong>, <strong>Django</strong>, and modern front-end: <strong>HTML, CSS, Bootstrap, JavaScript</strong>.<br>
-  💾 Skilled in <strong>SQL</strong> and database design.<br>
-  ☁️ Exploring cloud & DevOps: <strong>Azure, Docker, Terraform</strong>.<br>
-  📚 Forever curious and passionate about learning new tech.
-</p>
-
----
 
 ## 🔗 Portfolio Link
 
