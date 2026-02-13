@@ -17,7 +17,7 @@
 
 ## 🚀 About Me  
 
-💡 Passionate **Python Full Stack Developer** focused on building scalable, user-friendly web applications.
+💡 Passionate **Full Stack Developer** focused on building scalable, user-friendly web applications.
 
 - 🐍 Strong in **Python & Django**
 - 🔗 Experienced in **Django REST Framework (REST APIs)**
