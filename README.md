@@ -22,8 +22,9 @@
 - 🐍 Strong in **Python & Django**
 - 🔗 Experienced in **Django REST Framework (REST APIs)**
 - 🎨 Frontend skills: **HTML, CSS, Bootstrap, JavaScript**
-- ⚛️ Currently exploring **React**
+- ⚛️ Currently exploring **ReactJS**
 - 🗄️ Database handling: **SQL, ORM Optimization**
+- 🐙 Version control: **Git & GitHub**
 - 📈 Interested in clean architecture & performance optimization
 
 ---
